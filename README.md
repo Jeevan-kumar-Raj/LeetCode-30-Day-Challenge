@@ -4,7 +4,7 @@ In order to help you stay focussed, LeetCode is running the 30-Day LeetCoding Ch
 <p align="center">
   <img src="leetcode.jpg">
 </p>
-      Introduction
+      Introduction</br>
 Welcome to the 30-Day LeetCoding Challenge!
 Check out the announcement if you're not sure what this is all about. Also, don't forget to add the event to your calendar!
 
