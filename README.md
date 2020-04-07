@@ -2,7 +2,7 @@
 In order to help you stay focussed, LeetCode is running the 30-Day LeetCoding Challenge for the month of April. Each day, we'll challenge you ...
 
 <p align="center">
-  <img src="LeetCode-30-Day-Challenge/leetcode.jpg">
+  <img src="leetcode.jpg">
 </p>
       Introduction
 Welcome to the 30-Day LeetCoding Challenge!
