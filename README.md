@@ -21,7 +21,7 @@ If you miss a problem, it'll still be here for you, however, you won't get any L
 Good luck, and happy coding! We wish you all the best with your interview preparation.
 
 <p align="center">
-  <img src="LeetCode-30-Day-Challenge/LeetCode_cup.png">
+  <img src="LeetCode-30-Day-Challenge/LeetCode_Cup.png">
 </p>
 
 If you have any questions about the solutions you can find here, feel free to contact me **jeevankumarparsad@gmail.com**.
