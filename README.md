@@ -1,9 +1,8 @@
 # LeetCode-30-Day-Challenge
 In order to help you stay focussed, LeetCode is running the 30-Day LeetCoding Challenge for the month of April. Each day, we'll challenge you ...
-# Cracking-the-Coding-Interview
 
 <p align="center">
-  <img src="Book/front.jpg">
+  <img src="LeetCode-30-Day-Challenge/leetcode.jpg">
 </p>
       Introduction
 Welcome to the 30-Day LeetCoding Challenge!
@@ -22,7 +21,7 @@ If you miss a problem, it'll still be here for you, however, you won't get any L
 Good luck, and happy coding! We wish you all the best with your interview preparation.
 
 <p align="center">
-  <img src="Book/back.jpg">
+  <img src="LeetCode-30-Day-Challenge/LeetCode_cup.png">
 </p>
 
 If you have any questions about the solutions you can find here, feel free to contact me **jeevankumarparsad@gmail.com**.
